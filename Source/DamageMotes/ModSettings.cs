@@ -47,6 +47,7 @@ namespace DamageMotes
             return true;
         }
     }
+
     public class DMMod : Mod
     {
         public DMModSettings settings = new DMModSettings();
